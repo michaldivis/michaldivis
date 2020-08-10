@@ -1,7 +1,7 @@
 ### Hi there, I'm Michal 👋
 
-## I'm a Developer, and a music lover!
-- 🌱 I’m currently learning everything 🤣
+## I'm a developer, and a music lover!
+- 🌱 I’m currently learning everything I can about cross-platform development in C# (WPF, Xamarin.Forms) 🤣
 
 ### Languages and Tools:
 
