@@ -1,14 +1,18 @@
-### Hi there, I'm Michal 👋
+### Hi there! I'm Michal 👋
 
-## I'm a developer, and a music lover!
-- 🌱 I’m currently learning everything I can about cross-platform development in C# (WPF, Xamarin.Forms) 🤣
+## 👨🏻‍💻 About Me
 
-### Languages and Tools:
+- 🔨 &nbsp; Developing Xamarin.Forms/WPF apps with as much shared code as possible
+- 🤔 &nbsp; Exploring new cross-platform technologies
+- 🧠 &nbsp; Interested in AI and machine learning
+- 🎵 &nbsp; Pursuing music composition and production as hobby
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## 🛠 Tech Stack
+
+- 💻 &nbsp; C#
+- 🛢 &nbsp; PostgreSQL | SQLServer | SQLite
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; Photoshop | Illustrator | InDesign 
 
 <br />
 <br />
