@@ -14,6 +14,10 @@
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Photoshop | Illustrator | InDesign 
 
+### ☕ Get in touch
+- <a href = "https://www.linkedin.com/in/michal-divi%C5%A1-1266b8141/">LinkedIn</a>
+- <a href = "https://stackoverflow.com/users/4317797/michal-divi%c5%a1">StackOverflow</a>
+
 <br />
 <br />
 
