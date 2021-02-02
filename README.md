@@ -2,14 +2,14 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔨 &nbsp; Developing Xamarin.Forms/WPF apps with as much shared code as possible
+- 🔨 &nbsp; Developing Xamarin.Forms/WPF/ASP.NET apps with as much shared code as possible
 - 🤔 &nbsp; Exploring new cross-platform technologies
-- 🧠 &nbsp; Interested in AI and machine learning
 - 🎵 &nbsp; Pursuing music composition and production as hobby
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp; C#
+- 💻 &nbsp; C#, HTML, CSS
+- 💻 &nbsp; WPF | Xamarin.Forms | ASP.NET Core MVC, Blazor
 - 🛢 &nbsp; PostgreSQL | SQLServer | SQLite
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Photoshop | Illustrator | InDesign 
