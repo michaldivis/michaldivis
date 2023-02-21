@@ -2,18 +2,21 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop cross-platform software solutions.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 ✍️ &nbsp;In my free time, I pursue music composition and production as hobby.
 
 ### 🛠 &nbsp;Tech Stack
 
 ![CSharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![ASP.NET Core / Blazor](https://img.shields.io/badge/-ASP.NET%20Core%20/%20Blazor-05122A?style=flat&logo=dotnet)&nbsp;
 ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=dotnet)&nbsp;
-![Xamarin.Forms / MAUI](https://img.shields.io/badge/-Xamarin.Forms%20/%20MAUI-05122A?style=flat&logo=dotnet)&nbsp;
-![ASP.NET Core / Blazor](https://img.shields.io/badge/-ASP.NET%20Core%20/%20Blazor-05122A?style=flat&logo=dotnet)&nbsp;\
+![Xamarin.Forms / MAUI](https://img.shields.io/badge/-Xamarin.Forms%20/%20MAUI-05122A?style=flat&logo=dotnet)&nbsp;\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;\
+![xUnit](https://img.shields.io/badge/-xUnit-05122A?style=flat&logo=xunit)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -21,10 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
