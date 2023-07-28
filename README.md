@@ -8,11 +8,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![CSharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
-![ASP.NET Core / Blazor](https://img.shields.io/badge/-ASP.NET%20Core%20/%20Blazor-05122A?style=flat&logo=dotnet)&nbsp;
 ![WPF](https://img.shields.io/badge/-WPF-05122A?style=flat&logo=dotnet)&nbsp;
+![ASP.NET Core / Blazor](https://img.shields.io/badge/-ASP.NET%20Core%20/%20Blazor-05122A?style=flat&logo=dotnet)&nbsp;
 ![Xamarin.Forms / MAUI](https://img.shields.io/badge/-Xamarin.Forms%20/%20MAUI-05122A?style=flat&logo=dotnet)&nbsp;\
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;\
 ![xUnit](https://img.shields.io/badge/-xUnit-05122A?style=flat&logo=xunit)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
